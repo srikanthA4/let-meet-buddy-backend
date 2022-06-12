@@ -32,7 +32,7 @@ http://let-meet-buddy.vercel.app/
 Clone the project
 
 ```bash
-  git clone https://github.com/Pinqua/Call-Buddy-Backend.git
+  git clone https://github.com/srikanthA4/let-meet-buddy-backend
 ```
 
 Go to the project directory
